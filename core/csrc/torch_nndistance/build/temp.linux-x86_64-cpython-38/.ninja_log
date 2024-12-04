@@ -1,0 +1,3 @@
+# ninja log v5
+7	10281	1670945505135314888	/RoadmapWithStefan/gdrnpp_bop2022/core/csrc/torch_nndistance/build/temp.linux-x86_64-cpython-38/src/nnd_cuda.o	1863cd220d8144a
+8	117351	1670945612205119083	/RoadmapWithStefan/gdrnpp_bop2022/core/csrc/torch_nndistance/build/temp.linux-x86_64-cpython-38/src/nnd_cuda_kernel.o	762d6d22a2259a7b
